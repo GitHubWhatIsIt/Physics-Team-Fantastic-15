@@ -8,3 +8,6 @@ scene.range=(16, 16, 16)
 scene.autoscale = 0
 scene.center=(0, 12, 0)
 scene.background=color.white
+
+def happy_birhtday(x):
+    
