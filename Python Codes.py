@@ -10,4 +10,6 @@ scene.center=(0, 12, 0)
 scene.background=color.white
 
 def happy_birhtday(x):
+
+print "Thanks for the birthday wishes"
     
